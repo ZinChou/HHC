@@ -14,7 +14,7 @@ Each comparison video includes:
 <table style="width:100%; border-collapse:collapse;">
 <tbody>
 <tr>
-<td width="33%"><strong>GT</strong><br/><video src="./videos/1/GT.mp4" controls style="width:100%"></video></td>
+<td width="33%"><strong>GT</strong><br/><video src="videos/1/GT.mp4" controls style="width:100%"></video></td>
 <td width="33%"><strong>Linear</strong><br/><video src="./videos/1/Linear.mp4" controls style="width:100%"></video></td>
 <td width="33%"><strong>TFNet</strong><br/><video src="./videos/1/TFNet.mp4" controls style="width:100%"></video></td>
 </tr><tr>
@@ -30,5 +30,6 @@ Each comparison video includes:
 <strong>HHC</strong><br/><video src="./videos/1/HHC.mp4" controls style="width:33%"></video></td>
 </tr></tbody>
 </table>
+
 
 
