@@ -1,5 +1,5 @@
 # 🎧 Hearing Heart Sounds with a Camera From Defocused Speckle Video to Heart Sound Audio
-[▶️ Demo Video](./video/1/GT.mp4)
+
 We compared the audio reconstruction results of different methods. 
 
 The reconstructed audio was visualized by generating videos that combine the corresponding Mel spectrograms with the audio for intuitive comparison.
@@ -30,6 +30,7 @@ Each comparison video includes:
 <strong>HHC</strong><br/><video src="./videos/1/HHC.mp4" controls style="width:33%"></video></td>
 </tr></tbody>
 </table>
+
 
 
 
